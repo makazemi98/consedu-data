@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"b8c95192aaa941d9a59f38e8a387d91e","collectionName":"coursesentities","type":"collection"}
